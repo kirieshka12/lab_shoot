@@ -1,1 +1,2 @@
-# lab_shoot
+# project_labyrinth
+game
